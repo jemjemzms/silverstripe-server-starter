@@ -1,0 +1,7 @@
+---
+Name: silverstripe-server-starter
+---
+
+Member:
+  extensions:
+    - SEMember

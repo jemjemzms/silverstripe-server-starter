@@ -1,0 +1,10 @@
+---
+Name: mysiteroutes
+After: framework/routes#coreroutes
+---
+Director:
+  rules:
+    'api/authentication': 'Authentication_Controller',
+    'api/master': 'Master_Controller',
+    'api/category': 'Categories_Controller',
+    'api/member': 'Members_Controller',
