@@ -7,7 +7,7 @@ A Silverstripe-based minimal, api friendly REST Service that you can customize t
 
 This API Service features:
 
-  * Member Authentication
+  * Member Token Authentication
   * Category example endpoint
 
 ## Quick start
@@ -20,4 +20,4 @@ Now you're ready build your own REST Service in Silverstripe.
 
 ## License
 
-MIT license, Copyright (c) 2018 Dinesh Pandiyan.
+MIT license, Copyright (c) 2018 Jed Diaz.
